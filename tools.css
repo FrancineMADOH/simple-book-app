@@ -1,0 +1,75 @@
+main{
+    margin: 0 auto;
+    border: solid rgb(252, 171, 241) 2px ;
+    border-radius: 25px;
+    padding: 10px;
+    max-width: 700px;
+    background-color: rgb(236, 144, 224);
+}
+header{
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 10px;
+
+}
+footer{
+    text-align: center;
+    padding: 5px;
+}
+article{
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+li{
+    list-style-type: none;
+    margin-right: 10px;
+    margin: 30px; 
+}
+.button{
+    float: right ;
+    display: inline-flex;
+    margin-left: 200px
+ 
+}
+.titles{
+    padding: 5px;    
+}
+ header{
+font-size: 1.8em;
+font-family: 'Times New Roman', Times, serif;
+color: blueviolet
+}
+h2 {
+    text-align: center;
+    color: blueviolet;
+
+}
+button{
+    color: blueviolet;
+    border-radius: 10px;
+    height: 30px;
+}
+.title{
+    font-size: 1.3em;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+input[type=text]{
+    padding: 5px;
+    height: 30px;
+    border-radius: 10px;
+}
+::placeholder{
+    color: blueviolet;
+
+}
+
+
+
+
+
+
+
+
